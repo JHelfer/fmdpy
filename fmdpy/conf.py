@@ -22,9 +22,9 @@ def load():
     }
 
     config['API_KEYS'] = {
-            'spotify_client_id': "",
-            'spotify_client_secret': "",
-            'lyricsgenius': "",
+            'spotify_client_id': " bc18f68df9a64865bb34dbb381cd0faahi",
+            'spotify_client_secret': "9b84af20ae3c48cebf64c7127f6f0933",
+            'lyricsgenius'"",
     }
 
     config['STREAM'] = {
